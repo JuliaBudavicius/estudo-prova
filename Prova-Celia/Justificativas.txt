@@ -1,0 +1,11 @@
+P: Qual seria a melhor forma Classe Abstrata ou Interface?
+
+R: Classe Abstrata, pois vai obrigar a ter o metodo de bonificação.
+
+P: É necessário ter 2 List ou apenas um?
+
+R: Apenas uma lista
+
+P: O polimorfismo está presente nesse sistema?
+
+R: Sim, pois existem dois metodos com o mesmo nome, mas que possuem comportamentos distintos.
